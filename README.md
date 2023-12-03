@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @fedegonc
-- 👀 I’m interested in testing, programing and analysis of software
-- 🌱 I’m currently learning Analisys and Development of Systems
-- 💞️ I’m looking to collaborate on My country development technologies
+- 👋 Hi, I’m Mr. Fede, fefo o federico
+- 👀 I’m interested in software, sports and music
+- 🌱 I’m currently learning Thecnologistics in Analisys and Development of Systems
+- 💞️ I’m looking to collaborate on development and sustentation
 - 📫 How to reach me in goncalvezfede@gmail.com an a linkedin.com/federico-goncalvez
 
 <!---
