@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Federico
-- 👀 I’m interested in software, sports and music
+- 👀 I’m interested in technology, sports and music
 - 🌱 I’m currently learning Thecnologistics in Analisys and Development of Systems
 - 💞️ I’m looking to collaborate on development and sustentation
 - 📫 How to reach me in goncalvezfede@gmail.com an a linkedin.com/federico-goncalvez
