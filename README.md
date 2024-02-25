@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mr. Fede, fefo o federico
+- 👋 Hi, I’m Federico
 - 👀 I’m interested in software, sports and music
 - 🌱 I’m currently learning Thecnologistics in Analisys and Development of Systems
 - 💞️ I’m looking to collaborate on development and sustentation
