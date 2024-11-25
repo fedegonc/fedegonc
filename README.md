@@ -1,125 +1,30 @@
-<style>
-  canvas {
-    background: #000;
-    width: 100%;
-    height: 400px;
-  }
-</style>
+<div align="center">
+  <h1>¡Hola, soy [Tu Nombre]! 👋</h1>
+  <img src="https://raw.githubusercontent.com/[Tu Usuario]/[Tu Usuario]/main/header.svg" alt="header" />
+</div>
 
-<canvas id="particleCanvas"></canvas>
+## Sobre mí
+Soy un [tu profesión] con una gran pasión por la tecnología y el desarrollo de soluciones innovadoras. Me especializo en [tus áreas de experiencia, p. ej. "desarrollo web full-stack, diseño de interfaces de usuario y creación de aplicaciones móviles"].
 
-<script>
-const canvas = document.getElementById('particleCanvas');
-const ctx = canvas.getContext('2d');
+Me encanta aprender constantemente y mantenerme actualizado con las últimas tendencias e innovaciones en el campo de la tecnología. Disfruto colaborando en proyectos desafiantes y trabajando en equipo para lograr objetivos comunes.
 
-// Ajustar tamaño del canvas
-function resizeCanvas() {
-  canvas.width = canvas.offsetWidth;
-  canvas.height = canvas.offsetHeight;
-}
-resizeCanvas();
-window.addEventListener('resize', resizeCanvas);
+## Habilidades
+- **Lenguajes de programación:** [tus lenguajes, p. ej. "JavaScript, Python, Java, C#"]
+- **Frameworks y bibliotecas:** [tus frameworks y bibliotecas, p. ej. "React, Angular, Vue.js, Node.js, Django, Flask"]
+- **Herramientas:** [tus herramientas, p. ej. "Git, GitHub, Visual Studio Code, Figma, Adobe Creative Cloud"]
+- **Otras habilidades:** [otras habilidades relevantes, p. ej. "Diseño responsive, optimización de rendimiento, pruebas unitarias, DevOps"]
 
-class Particle {
-  constructor() {
-    this.x = Math.random() * canvas.width;
-    this.y = Math.random() * canvas.height;
-    this.targetX = 0;
-    this.targetY = 0;
-    this.vx = 0;
-    this.vy = 0;
-    this.radius = 2;
-    this.color = `hsl(${Math.random() * 360}, 50%, 50%)`; // Color aleatorio
-  }
+## Proyectos destacados
+<div align="center">
+  <a href="https://github.com/[Tu Usuario]/[Proyecto 1]">
+    <img src="https://raw.githubusercontent.com/[Tu Usuario]/[Proyecto 1]/main/screenshot.png" alt="[Proyecto 1]" width="400" />
+  </a>
+  <a href="https://github.com/[Tu Usuario]/[Proyecto 2]">
+    <img src="https://raw.githubusercontent.com/[Tu Usuario]/[Proyecto 2]/main/screenshot.png" alt="[Proyecto 2]" width="400" />
+  </a>
+</div>
 
-  setTarget(x, y) {
-    this.targetX = x;
-    this.targetY = y;
-  }
-
-  update() {
-    const dx = this.targetX - this.x;
-    const dy = this.targetY - this.y;
-    
-    this.vx += dx * 0.05; // Aumentado para movimiento más rápido
-    this.vy += dy * 0.05;
-    
-    this.vx *= 0.95;
-    this.vy *= 0.95;
-    
-    this.x += this.vx;
-    this.y += this.vy;
-  }
-
-  draw() {
-    ctx.beginPath();
-    ctx.arc(this.x, this.y, this.radius, 0, Math.PI * 2);
-    ctx.fillStyle = this.color;
-    ctx.fill();
-  }
-}
-
-// Crear más partículas para mejor efecto visual
-const particles = Array(1500).fill().map(() => new Particle());
-
-function generateCubePoints() {
-  const time = Date.now() * 0.001;
-  const size = 120;
-  const centerX = canvas.width / 2;
-  const centerY = canvas.height / 2;
-  
-  particles.forEach((particle, i) => {
-    const t = i / particles.length;
-    const angle = time + t * Math.PI * 2;
-    
-    // Distribución mejorada en forma de cubo
-    const face = Math.floor(t * 6);
-    let x, y;
-    
-    switch(face) {
-      case 0: // frente
-        x = centerX + Math.cos(angle) * size;
-        y = centerY + Math.sin(angle) * size;
-        break;
-      case 1: // derecha
-        x = centerX + size * Math.cos(Math.PI/4);
-        y = centerY + Math.sin(angle) * size;
-        break;
-      case 2: // atrás
-        x = centerX - Math.cos(angle) * size;
-        y = centerY + Math.sin(angle) * size;
-        break;
-      case 3: // izquierda
-        x = centerX - size * Math.cos(Math.PI/4);
-        y = centerY + Math.sin(angle) * size;
-        break;
-      case 4: // arriba
-        x = centerX + Math.cos(angle) * size;
-        y = centerY - size * Math.cos(Math.PI/4);
-        break;
-      case 5: // abajo
-        x = centerX + Math.cos(angle) * size;
-        y = centerY + size * Math.cos(Math.PI/4);
-        break;
-    }
-    
-    particle.setTarget(x, y);
-  });
-}
-
-function animate() {
-  ctx.fillStyle = 'rgba(0, 0, 0, 0.2)';
-  ctx.fillRect(0, 0, canvas.width, canvas.height);
-  
-  generateCubePoints();
-  
-  particles.forEach(particle => {
-    particle.update();
-    particle.draw();
-  });
-  
-  requestAnimationFrame(animate);
-}
-
-animate();
-</script>
+## Contacto
+- **Email:** [tu email]
+- **LinkedIn:** [tu perfil de LinkedIn]
+- **Twitter:** [@tu_usuario_twitter]
