@@ -1,14 +1,15 @@
 
 ## Sobre mí
-Soy un desarrollador de software con una gran pasión por la tecnología y el desarrollo de soluciones sostenibles. Me especializo en **Java con Spring Framework**, **HTML**, **CSS**, **TypeScript**, y **React**, aplicando **principios SOLID**, **diseño atómico**, y **mejores prácticas de desarrollo web**.
+Desde chico siempre me atrajo la tecnología, y eso me llevó a estudiar desarrollo de software. A lo largo de los años, he trabajado con **Java**, **HTML**, **CSS**, y más recientemente con **TypeScript** y **React**. Mi enfoque siempre ha sido aprender haciendo, mejorando poco a poco, y siempre buscando maneras de hacer mi código más limpio y eficiente.
 
-Me encanta aprender constantemente y mantenerme actualizado con las últimas tendencias en tecnología. Disfruto colaborar en proyectos desafiantes y aplicar mi conocimiento para mejorar la experiencia del usuario, siempre cuidando del medio ambiente y la comunidad.
+He trabajado en proyectos que van desde el desarrollo de aplicaciones web hasta la creación de sistemas que ayudan a la comunidad. Me encanta la idea de utilizar la tecnología para mejorar nuestra vida y entorno.
 
 ## Habilidades
 - **Lenguajes de programación:** Java, JavaScript, TypeScript, Python.
-- **Frameworks y bibliotecas:** Spring, React, Thymeleaf, Node.js.
+- **Frameworks y bibliotecas:** Spring, React, Thymeleaf.
 - **Herramientas:** Docker, Git, GitHub, Visual Studio Code.
-- **Otras habilidades:** Pruebas funcionales, automatización de testing, metodologías ágiles, arquitectura limpia.
+- **Otras habilidades:** Pruebas funcionales, metodologías ágiles, arquitectura sencilla.
+
 
 ## Contacto
 - **Email:** goncalvezfede@gmail.com
