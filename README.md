@@ -1,7 +1,3 @@
-<div align="center">
-  <h1>¡Hola, soy Federico Goncalvez! 👋</h1>
-  <img src="https://raw.githubusercontent.com/FedericoGoncalvez/FedericoGoncalvez/main/header.svg" alt="header" />
-</div>
 
 ## Sobre mí
 Soy un desarrollador de software con una gran pasión por la tecnología y el desarrollo de soluciones sostenibles. Me especializo en **Java con Spring Framework**, **HTML**, **CSS**, **TypeScript**, y **React**, aplicando **principios SOLID**, **diseño atómico**, y **mejores prácticas de desarrollo web**.
