@@ -1,8 +1,7 @@
 
-## Sobre mí
-Desde chico siempre me atrajo la tecnología, y eso me llevó a estudiar desarrollo de software. A lo largo de los años, he trabajado con **Java**, **HTML**, **CSS**, y más recientemente con **TypeScript** y **React**. Mi enfoque siempre ha sido aprender haciendo, mejorando poco a poco, y siempre buscando maneras de hacer mi código más limpio y eficiente.
+Desde que me metí en el mundo de la tecnología, supe que quería dedicarme a crear con ella. Así fue como llegué al desarrollo de software, y hoy me apasiona trabajar en aplicaciones SPA, combinando un backend robusto con Spring Framework y un frontend bien pulido con TypeScript y React.
 
-He trabajado en proyectos que van desde el desarrollo de aplicaciones web hasta la creación de sistemas que ayudan a la comunidad. Me encanta la idea de utilizar la tecnología para mejorar nuestra vida y entorno.
+Cada proyecto es una chance de aprender algo nuevo y seguir creciendo, ya sea en el backend, el frontend o en cómo conectar ambos mundos. Siempre estoy buscando actualizarme y llevar lo que hago al próximo nivel.
 
 ## Habilidades
 - **Lenguajes de programación:** Java, JavaScript, TypeScript, Python.
