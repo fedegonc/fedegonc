@@ -1,13 +1,13 @@
 
-Desde que me metí en el mundo de la tecnología, supe que quería dedicarme a crear con ella. Así fue como llegué al desarrollo de software, y hoy me apasiona trabajar en aplicaciones SPA, combinando un backend robusto con Spring Framework y un frontend bien pulido con TypeScript y React.
+Desde que entre al mundo Tec, supe que quería dedicarme a crear y vivir en esto. Así fue como llegué al desarrollo de software, hoy por hoy sigo motivado aprendiendo y practicando principalmente haciendo aplicaciones SPA con TypeScript y React, y desarrollando del lado del server principalmente con Spring Framework.
 
-Cada proyecto es una chance de aprender algo nuevo y seguir creciendo, ya sea en el backend, el frontend o en cómo conectar ambos mundos. Siempre estoy buscando actualizarme y llevar lo que hago al próximo nivel.
+Cada proyecto es una chance de aprender algo nuevo y seguir autosuperandome. Siempre buscando actualizarme, cumplir mis objetivos y metas con fuerza de voluntad.
 
 ## Habilidades
 - **Lenguajes de programación:** Java, JavaScript, TypeScript, Python.
 - **Frameworks y bibliotecas:** Spring, React, Thymeleaf.
 - **Herramientas:** Docker, Git, GitHub, Visual Studio Code.
-- **Otras habilidades:** Pruebas funcionales, metodologías ágiles, arquitectura sencilla.
+- **Otras habilidades:** Pruebas funcionales, metodologías ágiles, arquitectura limpia.
 
 
 ## Contacto
