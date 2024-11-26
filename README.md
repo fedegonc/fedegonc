@@ -1,12 +1,16 @@
 
-Desde que entre al mundo Tec, supe que quería dedicarme a crear y vivir de esto. Así fue como llegué al desarrollo de software, hoy por hoy sigo motivado aprendiendo y practicando principalmente haciendo aplicaciones SPA con TypeScript y React, y desarrollando del lado del server principalmente con Spring Framework.
+Desde que entre al mundo Tec, siempre soñe con dedicarme a crear y vivir de esto. 
+Así fue como llegué al desarrollo de software, hoy por hoy, sigo muy motivado y en constante aprendizaje. 
+Me llevo bien en el área de SPAs con TypeScript y React, y desarrollando del lado del server principalmente con Spring Framework.
 
-Cada proyecto es una chance de aprender algo nuevo y seguir autosuperandome. Siempre buscando actualizarme, cumplir mis objetivos y metas con fuerza de voluntad.
+Considero que cada proyecto es una chance de aprender algo nuevo para seguir autosuperandome. 
+Siempre busco cumplir los objetivos y metas con la mejor calidad y con la mejor actitud posible.
+Fomento un ambiente de trabajo creativo, ágil y positivo.
 
 ## Habilidades
-- **Lenguajes de programación:** Java, JavaScript, TypeScript, Python.
-- **Frameworks y bibliotecas:** Spring, React, Thymeleaf.
-- **Herramientas:** Docker, Git, GitHub, Visual Studio Code.
+- **Lenguajes de programación:** Java, JavaScript, TypeScript, Python, C, Ruby.
+- **Frameworks y bibliotecas:** Spring, React, Thymeleaf, Django, Android.
+- **Herramientas:** Docker, Git, Selenium, SQL.
 - **Otras habilidades:** Pruebas funcionales, metodologías ágiles, arquitectura limpia.
 
 
