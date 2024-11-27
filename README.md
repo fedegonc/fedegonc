@@ -1,9 +1,9 @@
 
 Desde que entre al mundo Tec, siempre soñe con dedicarme a crear y vivir de esto. 
 Así fue como llegué al desarrollo de software, hoy por hoy, sigo muy motivado y en constante aprendizaje. 
-Me llevo bien en el área de SPAs con TypeScript y React, y desarrollando del lado del server principalmente con Spring Framework.
+Me interesa desarrollar SPAs con React en el front, y del lado del server principalmente con Spring.
 
-Considero que cada proyecto es una chance de aprender algo nuevo para seguir autosuperandome. 
+Considero que cada proyecto es una oportunidad de aprender, mejorar y seguir autosuperandome. 
 Siempre busco cumplir los objetivos y metas con la mejor calidad y con la mejor actitud posible.
 Fomento un ambiente de trabajo creativo, ágil y positivo.
 
