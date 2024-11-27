@@ -1,6 +1,6 @@
 
-Desde que entre al mundo Tec, siempre soñe con dedicarme a crear y vivir de esto. 
-Así fue como llegué al desarrollo de software, hoy por hoy, sigo muy motivado y en constante aprendizaje. 
+Desde que descubrí el mundo Tech, siempre añore con dedicarme a crear y vivir de esto. 
+Así fue como pase desde testing hasta desarrollo de web, hoy por hoy, sigo muy motivado y en constante aprendizaje. 
 Me interesa desarrollar SPAs con React en el front, y del lado del server principalmente con Spring.
 
 Considero que cada proyecto es una oportunidad de aprender, mejorar y seguir autosuperandome. 
