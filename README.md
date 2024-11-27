@@ -5,7 +5,7 @@ Me interesa desarrollar SPAs con React en el front, y del lado del server princi
 
 Considero que cada proyecto es una oportunidad de aprender, mejorar y seguir autosuperandome. 
 Siempre busco cumplir los objetivos y metas con la mejor calidad y con la mejor actitud posible.
-Fomento un ambiente de trabajo creativo, ágil y positivo.
+Además fomento un ambiente de trabajo creativo, ágil y positivo.
 
 ## Habilidades
 - **Lenguajes de programación:** Java, JavaScript, TypeScript, Python, C, Ruby.
