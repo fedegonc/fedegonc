@@ -16,5 +16,5 @@ Además fomento un ambiente de trabajo creativo, ágil y positivo.
 
 ## Contacto
 - **Email:** goncalvezfede@gmail.com
-- **LinkedIn:** [linkedin.com/in/federicogoncalvez](https://linkedin.com/in/federicogoncalvez)
+- **LinkedIn:** [linkedin.com/in/federicogoncalvez](https://linkedin.com/in/federico-goncalvez)
 
