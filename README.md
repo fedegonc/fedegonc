@@ -1,5 +1,5 @@
 
-Estudiante de Tecnólogo en Análisis y Desarrollo de Sistemas en IFSul y UTEC, 
+Soy estudiante de Tecnólogo en Análisis y Desarrollo de Sistemas en IFSul y UTEC, 
 lo que me permite tener una visión integral y multidisciplinaria del área.
 
 Considero que cada proyecto representa una oportunidad para pulir habilidades, aprender y seguir creciendo profesionalmente.
