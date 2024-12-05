@@ -1,8 +1,8 @@
 
-Tuve la fortuna de formarme como tecnólogo en Análisis y Desarrollo de Sistemas en IFSul y UTEC, 
-lo que me permitió adquirir una visión integral y multidisciplinaria de la tecnología.
+Estudiante de Tecnólogo en Análisis y Desarrollo de Sistemas en IFSul y UTEC, 
+lo que me permite tener una visión integral y multidisciplinaria del área.
 
-Considero que cada proyecto representa una oportunidad para pulir habilidades, aprender cosas nuevas y seguir creciendo profesionalmente.
+Considero que cada proyecto representa una oportunidad para pulir habilidades, aprender y seguir creciendo profesionalmente.
 Busco siempre cumplir e ir un paso más, manteniendo una actitud positiva y constructiva.
 Fomentamos ambientes de trabajo creativos, ágiles y colaborativos, donde cada persona pueda desarrollar su máximo potencial.
 
