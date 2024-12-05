@@ -1,11 +1,10 @@
 
-Desde que descubrí el mundo Tech, siempre añore con dedicarme a crear y vivir de esto. 
-Hoy por hoy, sigo muy motivado y en constante aprendizaje. 
-Me interesa desarrollar SPAs con React en el front, y del lado del server principalmente con Spring.
+Tuve la fortuna de formarme como tecnólogo en Análisis y Desarrollo de Sistemas en IFSul y UTEC, 
+lo que me permitió adquirir una visión integral y multidisciplinaria de la tecnología.
 
-Considero que cada proyecto es una oportunidad  de mejorar mis habilidades, aplicar buenas practicas y seguir autosuperandome. 
-Siempre busco cumplir los objetivos y metas con calidad y con la mejor actitud posible.
-Además fomento un ambiente de trabajo creativo, ágil y positivo.
+Considero que cada proyecto representa una oportunidad para pulir habilidades, aprender cosas nuevas y seguir creciendo profesionalmente.
+Busco siempre cumplir e ir un paso más, manteniendo una actitud positiva y constructiva.
+Fomentamos ambientes de trabajo creativos, ágiles y colaborativos, donde cada persona pueda desarrollar su máximo potencial.
 
 ## Habilidades
 - **Lenguajes de programación:** Java, JavaScript, TypeScript, Python, C, Ruby.
