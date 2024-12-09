@@ -1,19 +1,13 @@
+💻 Junior Java Developer | Fullstack Developer  
 
-Soy estudiante de Tecnólogo en Análisis y Desarrollo de Sistemas en IFSul y UTEC, 
-lo que me permite tener una visión integral y multidisciplinaria del área.
+🔑 **Skills:**
+- **Backend:** Java (Spring Framework, Jakarta EE), REST APIs, Clean Architecture.  
+- **Frontend:** HTML, CSS, JavaScript (React, TypeScript), Atomic Design.  
+- **Databases:** MySQL, MongoDB.  
+- **DevOps:** Docker, Kubernetes, GitHub Actions.  
+- **Testing:** Functional Testing, Automated Testing (Selenium, JUnit), TDD.  
+- **Data Analytics:** SQL, Looker, Python.  
 
-Considero que cada proyecto representa una oportunidad para pulir habilidades, aprender y seguir creciendo profesionalmente.
-Busco siempre cumplir e ir un paso más, manteniendo una actitud positiva y constructiva.
-Fomentamos ambientes de trabajo creativos, ágiles y colaborativos, donde cada persona pueda desarrollar su máximo potencial.
+🚀 Focused on creating scalable applications with clean and maintainable code, ensuring accessibility and performance.  
 
-## Habilidades
-- **Lenguajes de programación:** Java, JavaScript, TypeScript, Python, C, Ruby.
-- **Frameworks y bibliotecas:** Spring, React, Thymeleaf, Django, Android.
-- **Herramientas:** Docker, Git, Selenium, SQL.
-- **Otras habilidades:** Pruebas funcionales, metodologías ágiles, arquitectura limpia.
-
-
-## Contacto
-- **Email:** goncalvezfede@gmail.com
-- **LinkedIn:** [linkedin.com/in/federico-goncalvez](https://linkedin.com/in/federico-goncalvez)
-
+🌱 Continuously learning and open to collaboration in innovative projects.
