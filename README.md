@@ -5,7 +5,7 @@ Mi formación me brindó una base sólida para analizar, diseñar, desarrollar e
 Tecnologías que utilizo:
 • Backend: Java, Spring Boot, Node.js
 • Frontend: JavaScript, React, HTML5, CSS
-• Bases de datos: MySQL, PostgreSQL
+• Bases de datos relacionales y vectoriales.
 • Herramientas: Git, Docker, Scrum
 
 Actualmente busco oportunidades para contribuir en proyectos desafiantes donde pueda seguir aprendiendo y creciendo como profesional.
