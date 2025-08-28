@@ -1,22 +1,12 @@
-💻 **Junior Java Developer | Fullstack Developer**
-Me enfoco en equilibrar la entrega de codigo de calidad vs la velocidad de producción.
-Trato de siempre seguir las buenas practicas pero también saber en que momento utilizar excepciones a las reglas.
-Para mi vale más algo hecho, que algo perfecto.
+Desarrollador Full-Stack del Tecnólogo en Análisis y Desarrollo de Sistemas de UTEC e IFSUL.
 
-🔑 **Skills:**  
+Mi formación me brindó una base sólida para analizar, diseñar, desarrollar e implementar software de calidad. Disfruto de crear soluciones integrales, desde la lógica del backend hasta la experiencia del usuario.
 
-- **Principios:** SOLID, Moscow, KISS, DRY, yangi.   
-- **Backend:** Java (Spring Framework), Python (Flask, Django), Node.js, REST APIs, Clean Architecture.  
-- **Frontend:** HTML, CSS, JavaScript (React, TypeScript), Flutter, Atomic Design.  
-- **Databases:** SQL, NoSQL.  
-- **DevOps:** Docker, Kubernetes, GitHub Actions, Jenkins.  
-- **Testing:** Functional Testing, Automated Testing (Selenium, JUnit), TDD.  
-- **Data Analytics:** SQL, Looker, Python, Pandas, Numpy.  
-- **Mobile:** Android, Java, Kotlin, Flutter.  
-- **Methodologies:** Scrum, Kanban, XP, Iterative, Waterfall, DDD.  
-- **Architecture:** Microservices, Monolithic, Hexagonal.  
-- **Paradigms:** POO, Functional, Procedural, AOP.  
+Tecnologías que utilizo:
+• Backend: Java, Spring Boot, Node.js
+• Frontend: JavaScript, React, HTML5, CSS
+• Bases de datos: MySQL, PostgreSQL
+• Herramientas: Git, Docker, Scrum
 
-🚀 **Focused on creating scalable applications with clean, maintainable code, ensuring accessibility and performance.**  
+Actualmente busco oportunidades para contribuir en proyectos desafiantes donde pueda seguir aprendiendo y creciendo como profesional.
 
-🌱 **Continuously learning and open to collaboration in innovative projects.**
